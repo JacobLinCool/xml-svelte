@@ -1,0 +1,16 @@
+# You can add files to this file to add them to confold targets.
+# This file uses the same syntax as .gitignore.
+
+.eslintignore
+.eslintrc.cjs
+.npmrc
+.prettierignore
+.prettierrc
+playwright.config.ts
+postcss.config.cjs
+svelte.config.js
+tailwind.config.cjs
+svelte.config.js
+tsconfig.json
+vite.config.ts
+.husky
