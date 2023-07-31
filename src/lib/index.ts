@@ -1,4 +1,4 @@
-// Reexport your entry components here
-import SSML from './ssml/SSML.svelte';
+import XML from './xml/XML.svelte';
 
-export { SSML };
+export { XML };
+export * from './types.js';

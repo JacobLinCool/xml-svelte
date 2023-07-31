@@ -1,5 +1,5 @@
 {
-	"name": "ssml-svelte",
+	"name": "xml-svelte",
 	"version": "0.0.0",
 	"scripts": {
 		"prepare": "confold align && husky install",

@@ -1,6 +1,6 @@
 {
 	"$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
-	"changelog": ["@changesets/changelog-github", { "repo": "JacobLinCool/ssml-svelte" }],
+	"changelog": ["@changesets/changelog-github", { "repo": "JacobLinCool/xml-svelte" }],
 	"commit": false,
 	"fixed": [],
 	"linked": [],

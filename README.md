@@ -1,3 +1,3 @@
-# SSML Svelte
+# XML Svelte
 
-This is a Svelte component for editing / viewing SSML (Speech Synthesis Markup Language) in the browser.
+This is a Svelte component for editing / viewing XML in the browser.
