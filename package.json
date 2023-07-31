@@ -1,6 +1,6 @@
 {
 	"name": "xml-svelte",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"scripts": {
 		"prepare": "confold align && husky install",
 		"dev": "vite dev",
